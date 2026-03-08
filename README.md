@@ -1,11 +1,11 @@
 <h1 align="center">Chengxing Xie</h1>
 
 <p align="center">
-  Building LLM agents that can <b>plan</b>, <b>reason</b>, and <b>improve through reinforcement learning</b>.
+  Building LLM agents with <b>reasoning</b>, <b>planning</b>, and <b>reinforcement learning</b>.
 </p>
 
 <p align="center">
-  Ph.D. student at Tsinghua University · Researcher / Builder in Agentic RL and LLM post-training
+  Ph.D. student at Tsinghua University · Agentic RL · LLM post-training
 </p>
 
 <p align="center">
@@ -15,6 +15,12 @@
   <a href="https://github.com/yitianlian">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://scholar.google.com/">
+    <img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  </a>
+  <a href="mailto:xiechengxing34@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
@@ -22,53 +28,25 @@
   <img src="https://img.shields.io/badge/LLM%20Post--Training-1d4ed8?style=flat-square" />
   <img src="https://img.shields.io/badge/Reasoning%20Systems-b45309?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20Source-7c3aed?style=flat-square" />
+  <img src="https://img.shields.io/badge/GLM--5-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/GLM--4.5-1f2937?style=flat-square" />
+  <img src="https://img.shields.io/badge/slime-065f46?style=flat-square" />
+  <img src="https://img.shields.io/badge/SGLang-7c2d12?style=flat-square" />
+  <img src="https://img.shields.io/badge/NeurIPS%202024-8b5cf6?style=flat-square" />
+  <img src="https://img.shields.io/badge/ACL%202025-2563eb?style=flat-square" />
 </p>
 
 ---
 
-## What I Do
+<p align="center">
+  Core contributor to <b>GLM-5</b>, <b>GLM-4.5</b>, <b>slime</b>, and <b>SGLang</b>.
+</p>
 
-I work on language model agents that need to operate beyond static benchmarks, with a focus on planning, reasoning, and learning under real-world system constraints.
+<p align="center">
+  Research at the intersection of <b>agentic RL</b>, <b>LLM systems</b>, and <b>open-source training infrastructure</b>.
+</p>
 
-My current interests include:
-
-- Agentic reinforcement learning
-- LLM post-training systems
-- Long-horizon reasoning and planning
-- Efficient infrastructure for open models
-
-## Current Roles
-
-- Ph.D. student in Computer Science at **Tsinghua University**
-- Advised by **Prof. Hongning Wang**
-- Intern at **Zhipu AI**
-
-Previously worked with **Shanghai AI Lab**, **HKU**, and **KAUST**.
-
-## Open-Source Work
-
-- Core contributor to **GLM-5**
-- Core contributor to **GLM-4.5**
-- Core contributor to **slime**, an LLM post-training framework for scalable RL
-- Contributor to **SGLang**, mainly on RL-related capabilities
-
-## Selected Work
-
-- **GLM-5**: from vibe coding to agentic engineering
-- **GLM-4.5**: agentic, reasoning, and coding foundation models
-- **SWE-Fixer**
-  - ACL 2025 Findings
-- **Can Large Language Model Agents Simulate Human Trust Behavior?**
-  - NeurIPS 2024
-
-## A Short Version
-
-```text
-I build practical LLM agent systems:
-better reasoning, better training, better deployment.
-```
-
-## Links
-
-- Homepage: https://yitianlian.github.io/
-- GitHub: https://github.com/yitianlian
+<p align="center">
+  Recent work includes <b>SWE-Fixer</b> (ACL 2025 Findings) and
+  <b>Can Large Language Model Agents Simulate Human Trust Behavior?</b> (NeurIPS 2024).
+</p>
